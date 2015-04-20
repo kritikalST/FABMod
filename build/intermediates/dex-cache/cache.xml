@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jose.fernandez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jose.fernandez/AndroidStudioProjects/android-floating-action-button-master/sample/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-bf830243d44691fde4ce2f8d3528a65d0e8bf081.jar" />
+    </item>
+    <item
+        jar="/Users/jose.fernandez/AndroidStudioProjects/android-floating-action-button-master/sample/build/intermediates/exploded-aar/android-floating-action-button-master/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c34b35d9f3fb7c8ec79607ce972ced1b0a2c7981">
+        <dex dex="/Users/jose.fernandez/AndroidStudioProjects/android-floating-action-button-master/sample/build/intermediates/pre-dexed/debug/classes-d66a0737f1f7494e348fb207c2cff7f20a4b1508.jar" />
+    </item>
+    <item
+        jar="/Users/jose.fernandez/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jose.fernandez/AndroidStudioProjects/android-floating-action-button-master/sample/build/intermediates/pre-dexed/debug/library-2.4.0-75aba6725fa4d90ed8accd05e1166d834254047b.jar" />
+    </item>
+    <item
+        jar="/Users/jose.fernandez/AndroidStudioProjects/FABMod/sample/build/intermediates/exploded-aar/FABMod/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="94581ad95a13cfc6d2bad401ebaec5fb07158857">
+        <dex dex="/Users/jose.fernandez/AndroidStudioProjects/FABMod/sample/build/intermediates/pre-dexed/debug/classes-f81c16d7c8ed72a4235a68a6de4a44d3e8978f5c.jar" />
+    </item>
+
+</items>
